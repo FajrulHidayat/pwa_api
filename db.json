@@ -1,0 +1,24 @@
+{
+  "produk" = 
+    [{"id":1,"name":"Golden jackal","category":"Fuscia"},
+{"id":2,"name":"Sage hen","category":"Fuscia"},
+{"id":3,"name":"Western lowland gorilla","category":"Puce"},
+{"id":4,"name":"Bustard, stanley","category":"Aquamarine"},
+{"id":5,"name":"Kori bustard","category":"Orange"},
+{"id":6,"name":"Skunk, striped","category":"Goldenrod"},
+{"id":7,"name":"Greater roadrunner","category":"Mauv"},
+{"id":8,"name":"Steenbuck","category":"Crimson"},
+{"id":9,"name":"Eastern diamondback rattlesnake","category":"Violet"},
+{"id":10,"name":"Rhinoceros, square-lipped","category":"Pink"},
+{"id":11,"name":"Pocket gopher (unidentified)","category":"Orange"},
+{"id":12,"name":"Eurasian beaver","category":"Fuscia"},
+{"id":13,"name":"Zorilla","category":"Red"},
+{"id":14,"name":"Bustard, denham's","category":"Red"},
+{"id":15,"name":"Marshbird, brown and yellow","category":"Blue"},
+{"id":16,"name":"Dragon, asian water","category":"Goldenrod"},
+{"id":17,"name":"Tortoise, indian star","category":"Turquoise"},
+{"id":18,"name":"Worm snake (unidentified)","category":"Khaki"},
+{"id":19,"name":"Albatross, galapagos","category":"Turquoise"},
+{"id":20,"name":"Savanna fox","category":"Aquamarine"}]
+  }
+
