@@ -1,5 +1,5 @@
 {
-  "produk" = 
+  "produk" :
     [{"id":1,"name":"Golden jackal","category":"Fuscia"},
 {"id":2,"name":"Sage hen","category":"Fuscia"},
 {"id":3,"name":"Western lowland gorilla","category":"Puce"},
